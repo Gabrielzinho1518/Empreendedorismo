@@ -1,0 +1,49 @@
+🟩 Forças (F)
+
+Plataforma colaborativa com dados climáticos em tempo real.
+
+Integração com Waze e Google Maps, ampliando alcance e confiabilidade.
+
+Interface intuitiva e sistema de gamificação que engaja os usuários.
+
+Parcerias estratégicas com Defesa Civil e órgãos meteorológicos.
+
+Módulo AgroClima Pro voltado ao agronegócio, agregando valor e monetização.
+
+Uso de previsões hiperlocais e personalizadas com base em geolocalização.
+
+🟦 Oportunidades (O)
+
+Crescente preocupação com mudanças climáticas e segurança viária.
+
+Possibilidade de licenciamento da tecnologia para governos e empresas.
+
+Integração com novos serviços de mobilidade (ex: apps de transporte e logística).
+
+Aumento da demanda por dados meteorológicos precisos e soluções preditivas.
+
+Potencial de internacionalização para países com alto risco climático.
+
+🟥 Fraquezas (F)
+
+Alta dependência de parceiros externos (ex: plataformas de navegação).
+
+Necessidade constante de atualização tecnológica e infraestrutura robusta.
+
+Baixo reconhecimento de marca em comparação com apps consolidados.
+
+Possível baixa adesão inicial da comunidade de usuários.
+
+Dependência de acurácia dos dados colaborativos, que pode variar.
+
+🟨 Ameaças (A)
+
+Concorrência de aplicativos meteorológicos e de navegação já estabelecidos.
+
+Variações nas políticas de integração de APIs (Google, Waze, etc.).
+
+Fake reports ou dados incorretos que podem comprometer a credibilidade.
+
+Mudanças climáticas cada vez mais imprevisíveis podem desafiar os modelos preditivos.
+
+Questões legais e de privacidade no uso e armazenamento de dados geográficos.
